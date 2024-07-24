@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-# URL của mục giáo dục và bóng đá
+# URL của mục 
 urls = {
     'giáo dục': 'https://vnexpress.net/giao-duc/tuyen-sinh',
     'khoa học': 'https://vnexpress.net/khoa-hoc/khoa-hoc-trong-nuoc',
